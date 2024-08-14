@@ -1,0 +1,125 @@
+.body{
+  background-color:black;
+}
+.nav{
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  justify-content: space-between;
+  position: fixed ;
+  overflow: hidden;
+  margin: 0px ;
+  border: 2px solid black;
+  padding: 10px ;
+  background-color: black;
+  color: white;
+}
+.logo-left{
+  text-align: left;
+  padding-right: 30px;
+  margin: 0px;
+  
+}
+.a{
+  text-align: right;
+  padding: 8px;
+   margin: 0px;
+  text-decoration: none;
+  color: white;
+}
+.a:hover{
+  color: #0ebee6;
+}
+.about{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+
+.img-right{
+  text-align: right;
+  padding-top: 100px;
+}
+.text-left{
+  color: white;
+  text-align: left;
+  padding-top: 100px;
+} 
+.name-h1{
+  color: #0ebee6;
+}
+.sk-h1{
+  color: #0ebee6;
+  text-align: center;
+  padding: 50px;
+  
+}
+
+} 
+        } 
+  
+        .container { 
+            background-color: rgb(192, 192, 192); 
+            width: 100%; 
+            border-radius: 15px; 
+        } 
+  
+        .skill { 
+            background-color: #0ebee6 ; 
+            color: white; 
+            padding: 1%; 
+            text-align: right; 
+            font-size: 20px; 
+            border-radius: 15px; 
+        } 
+  
+        .html { 
+            width: 90%; 
+        } 
+  
+        .css { 
+            width: 80%; 
+        } 
+
+        .js { 
+            width: 50%; 
+        } 
+
+        .boostrap { 
+            width: 70%; 
+        } 
+.p{
+  color: white;
+}
+.pro-h1{
+  color: #0ebee6;
+  padding: 50px;
+  text-align: center;
+  
+}
+.project-text{
+  color: white;
+  text-align: center;
+  padding: 10px;
+  border: 2px solid #0ebee6;
+  
+  
+}
+.button{
+  text-decoration: none;
+}
+.us{
+  color: #0ebee6;
+  text-align: center;
+}
+.con-body{
+  color: white;
+  text-align: center;
+}
+.copy{
+  border: 2px solid black;
+  color: white;
+  text-align: center;
+  padding-top: : 40px;
+}
